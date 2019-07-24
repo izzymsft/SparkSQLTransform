@@ -1,5 +1,8 @@
+.idea
+dependency*
 *.class
 *.log
+*.iml
 
 # List of Files to Ignore
 config.properties
